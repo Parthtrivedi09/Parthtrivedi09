@@ -64,6 +64,14 @@ Build production-ready AI systems that reason, plan and automate.
 
 </p>
 
+
+
+# 💻 Tech Stack
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,git,github,linux,vscode,mongodb,mysql"/>
+
+</p>
 🟢 LangChain
 
 🟢 LangGraph
@@ -80,11 +88,20 @@ Build production-ready AI systems that reason, plan and automate.
 
 🟢 OpenCV
 
+🏆 Thapar Merit Scholarship (Consecutive 6 Semesters)
 
-# 💻 Tech Stack
-https://skillicons.dev/icons?i=
+🌍 Top 1.4% on LeetCode
+
+🥉 EMPORIA 3.0 Finalist
+
+🏅 Executive Committee Member
+
+![Snake](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,git,github,linux,vscode,mongodb,mysql"/>
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge"/>
 
 </p>
+
+> "Building AI systems that don't just predict—but reason, plan and act."
