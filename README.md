@@ -14,6 +14,10 @@ Building intelligent AI systems using LLMs, LangChain, RAG, Agentic AI and Machi
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=900&color=00C4FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Generative+AI+Developer;LangChain+%7C+LangGraph+%7C+LangSmith;Machine+Learning+Enthusiast;Building+Intelligent+AI+Systems;C%2B%2B+%7C+Python+%7C+DSA" />
 </p>
 
+<p align="center">
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="320">
+</p>
+
 ---
 
 # 🚀 About Me
