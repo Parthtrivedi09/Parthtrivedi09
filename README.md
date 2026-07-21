@@ -64,6 +64,22 @@ Build production-ready AI systems that reason, plan and automate.
 
 </p>
 
+🟢 LangChain
+
+🟢 LangGraph
+
+🟢 HuggingFace
+
+🟢 FAISS
+
+🟢 ChromaDB
+
+🟢 RAG
+
+🟢 YOLOv8
+
+🟢 OpenCV
+
 
 # 💻 Tech Stack
 https://skillicons.dev/icons?i=
