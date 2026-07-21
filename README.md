@@ -18,3 +18,32 @@ Building intelligent AI systems using LLMs, LangChain, RAG, Multi-Agent AI and M
 <img width="650"
 src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
+
+# 🚀 About Me
+
+🎓 B.E. Electrical & Computer Engineering
+at Thapar Institute of Engineering & Technology
+
+🤖 Passionate about building intelligent AI systems
+that combine Machine Learning, LLMs and Agentic AI.
+
+💡 Interested in
+
+- 🤖 Generative AI
+- 🧠 Agentic AI
+- 📈 Machine Learning
+- 💬 NLP
+- 👁 Computer Vision
+- ⚙️ Data Structures & Algorithms
+
+🌱 Currently Learning
+
+- LangGraph
+- Multi-Agent Systems
+- Agent Orchestration
+- Advanced RAG
+- MLOps
+
+🎯 Goal
+
+Build production-ready AI systems that reason, plan and automate.
