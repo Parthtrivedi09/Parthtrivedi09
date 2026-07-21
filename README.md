@@ -15,7 +15,7 @@ Building intelligent AI systems using LLMs, LangChain, RAG, Agentic AI and Machi
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="320">
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="320">
 </p>
 
 ---
