@@ -63,3 +63,12 @@ Build production-ready AI systems that reason, plan and automate.
 </a>
 
 </p>
+
+
+# 💻 Tech Stack
+https://skillicons.dev/icons?i=
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,git,github,linux,vscode,mongodb,mysql"/>
+
+</p>
