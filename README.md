@@ -47,3 +47,19 @@ that combine Machine Learning, LLMs and Agentic AI.
 🎯 Goal
 
 Build production-ready AI systems that reason, plan and automate.
+
+<p align="center">
+
+<a href="YOUR LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="YOUR GITHUB">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="YOUR LEETCODE">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="50"/>
+</a>
+
+</p>
